@@ -1,6 +1,9 @@
 # LINE Login Example
 <img src='http://arock.blob.core.windows.net/blogdata201702/14-215656-e2740e6c-82bb-489b-9792-a271086e7e4e.png' />
 <div class="panel-body">
+  
+[![Build status](https://dev.azure.com/winnie148636/Lab2/_apis/build/status/Lab2-ASP.NET-CI%20(1))](https://dev.azure.com/winnie148636/Lab2/_build/latest?definitionId=-1)
+
 背景知識:<br/>
   請先參考底下這篇文章，建立您的LINE Login服務channel，取得Client_id, Client_secret<br/>
   https://studyhost.blogspot.com/2017/12/clinebot17-line-login-v21.html<br/>
